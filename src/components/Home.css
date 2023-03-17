@@ -1,0 +1,41 @@
+
+.home {
+    position: relative;
+    min-height: 80vh;
+    background-image: url('//Users/chaseblackwood/Desktop/sparkle_home_cleaning_service/sparkle_home_cleaning_service/public/DALL·E 2023-03-17 00.08.04 - a set of cleaning supplies on a table in a clean but decorated room .png');
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .hero {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+  }
+  
+  .hero h1 {
+    font-size: 3.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .hero p {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+  }
+  
+  .hero button {
+    font-size: 1.25rem;
+    padding: 0.75rem 1.5rem;
+    background-color: #f0f0f0;
+    color: #000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  
+  
+  

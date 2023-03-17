@@ -1,0 +1,28 @@
+.testimonials {
+    padding: 2rem;
+  }
+  
+  .testimonials h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .testimonials-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .testimonial {
+    flex: 1;
+    min-width: 300px;
+    padding: 1rem;
+    border: 1px solid #f0f0f0;
+    border-radius: 5px;
+  }
+  
+  .testimonial-author {
+    font-weight: bold;
+    text-align: right;
+  }
+  

@@ -1,0 +1,27 @@
+
+.booking {
+    padding: 2rem;
+  }
+  
+  .booking h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .booking-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .booking-form label,
+  .booking-form input,
+  .booking-form select,
+  .booking-form textarea {
+    width: 100%;
+  }
+  
+  .booking-form button {
+    margin-top: 1rem;
+  }
+  
